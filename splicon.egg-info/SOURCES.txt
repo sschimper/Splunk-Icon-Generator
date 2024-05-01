@@ -1,0 +1,10 @@
+README.md
+setup.py
+splicon/__init__.py
+splicon/splicon.py
+splicon.egg-info/PKG-INFO
+splicon.egg-info/SOURCES.txt
+splicon.egg-info/dependency_links.txt
+splicon.egg-info/entry_points.txt
+splicon.egg-info/requires.txt
+splicon.egg-info/top_level.txt

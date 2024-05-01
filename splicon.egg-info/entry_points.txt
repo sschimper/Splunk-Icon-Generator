@@ -1,0 +1,3 @@
+[console_scripts]
+splicon = splicon.splicon:create_splunk_icons
+
