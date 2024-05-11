@@ -12,7 +12,7 @@ def create_splunk_icons():
 
     parser.add_argument("filename", help="Image file from which the Splunk icons are generated.")           
     parser.add_argument("-d", "--destination", help="Directory/Folder for storing the processed icons.")
-    parser.add_argument("-v", "--version", action="version", version="1.0.0", help="Prints the version.")
+    parser.add_argument("-v", "--version", action="version", version="1.0.1", help="Prints the version.")
     args = parser.parse_args()
 
     output_directory = "."

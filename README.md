@@ -1,12 +1,14 @@
 # Splunk Icon Generator
 
 Creates icons to be used for developing Splunk apps and add-ons via resizing a provided image.
-More information about Splunk"s required image sizes can be found here:\n
+More information about Splunk"s required image sizes can be found here:
 https://dev.splunk.com/enterprise/docs/developapps/createapps#Add-icons-to-your-app
 
 ## Installation
 
-// todo
+```console
+pip install splicon
+```
 
 ## Usage
 

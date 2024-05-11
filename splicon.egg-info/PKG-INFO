@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: splicon
-Version: 1.0.0
+Version: 1.0.1
 Summary: Create Splunk icons for App/Add-On Development
 Home-page: UNKNOWN
 Author: Sebastian Schimper
@@ -9,7 +9,7 @@ License: UNKNOWN
 Keywords: python,splunk,icon,development
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
-Classifier: Intended Audience :: Splunk Developers
+Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
@@ -20,7 +20,7 @@ Description-Content-Type: text/markdown
 # Splunk Icon Generator
 
 Creates icons to be used for developing Splunk apps and add-ons via resizing a provided image.
-More information about Splunk"s required image sizes can be found here:\n
+More information about Splunk"s required image sizes can be found here:
 https://dev.splunk.com/enterprise/docs/developapps/createapps#Add-icons-to-your-app
 
 ## Installation
@@ -35,7 +35,7 @@ splicon [-h] [-d DESTINATION] [-v] filename
 
 ```console
 positional arguments:
-  filename
+  filename              Image file from which the Splunk icons are generated.
 
 options:
   -h, --help            show this help message and exit
